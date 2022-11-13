@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muni91
-- 👀 I’m interested in Full-stack developement and data analytics
-- 🌱 I’m currently working Capgemini Engineering as software Engineer
-- ✌️ Able to design and implement fullstack applications using django
+- 👀 I’m interested in Full-stack developement and devops
+- 🌱 I’m currently working TCS as GCP DEV Engineer
+- ✌️ Able to design and implement fullstack applications
 - 📫 dev.munisiva@gmail.com
 
 <!---
