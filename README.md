@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muni91
 - 👀 I’m interested in Full-stack developement and devops
-- 🌱 I’m currently working TCS as GCP DEV Engineer
-- ✌️ Able to design and implement fullstack applications
+- 🌱 I’m currently working as a Cloud Engineer
+- ✌️ Able to design and implement cloud native applications
 - 📫 dev.munisiva@gmail.com
 
 <!---
