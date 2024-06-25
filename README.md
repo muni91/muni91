@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muni91
-- 👀 I’m interested in Full-stack developement and devops
+- 👀 I’m interested in cloud related Opportinities data/infrastructure
 - 🌱 I’m currently working as a Cloud Engineer
 - ✌️ Able to design and implement cloud native applications
 - 📫 dev.munisiva@gmail.com
